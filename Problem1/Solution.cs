@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Problem1
 {
-    internal class Solution
+    public class Solution
     {
         public int BagOfTokensScore(int[] tokens, int power)
         {
